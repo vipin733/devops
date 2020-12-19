@@ -1,5 +1,5 @@
 let index = () => {
-    console.log('hi')
+    console.log('hi again')
 }
 
 index()
